@@ -165,6 +165,6 @@ int main()
         }
         //printf("%d",strlen(opt));
      }
-
+printf("no memory");
 
 
